@@ -1,0 +1,64 @@
+A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main 
+branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, 
+you can merge your branch back into the main branch to publish your changes.When you create a repository with content on GitHub,
+ GitHub creates the repository with a single branch. This first branch in the repository is the default branch. The default branch 
+ is the branch that GitHub displays when anyone visits your repository. The default branch is also the initial branch that Git 
+ checks out locally when someone clones the repository. Unless you specify a different branch, the default branch in a repository 
+ is the base branch for new pull requests and code commits.Branches allow you to develop features, fix bugs, or safely experiment 
+ with new ideas in a contained area of your repository.
+You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your 
+repository. You can then work on this new branch in isolation from changes that other people are making to the repository.
+ A branch you create to build a feature is commonly referred to as a feature branch or topic branch.git,github,git,github,
+ github tutorial,git tutorial,repository,commit,branch,pull request,version control,repository tutorial,commit tutorial,
+ version control tutorial,team programming,teamwork,teamwork coding,how to use github,how to use git,how-to (version control),
+ how to get started with github,beginner tutorial,how to setup github,first time github,repo,github version control,git branch 
+ tutorial,github branches,what is a git branch, github tutorial,git basics,how to use git,git vs github,how to use github,github 
+ basics,github tutorial 2019,github explained,git explained,intro to git,intro to github,repository tutorial,github mac,version 
+ control,git,github,github branch tutorial,github branching and merging,github branches explained,github branching strategy,github
+  branch pull request,git branching,git branching and merging strategies,git branch tutorial,git branching and merging, git in hindi
+  ,git branch,what is branch in git,what is git branch,git branch tutorial,git tutorial in hindi, github,pull request,github 
+  master branch,merge pull request,selenium,selenium automation,git,master branch,github new branch,merge,github pull request,
+  github merge pull request, telusko,navin,reddy,tutorial,java,git,github,hub,branch,pull,request,requests,merge,project, 
+  git (software),version control,workflow, git tutorial,git tutorial for beginners,git tutorial for beginners windows,git 
+branch tutorial,git branching,version control,pull request,github tutorial,git branch,git production staging development,
+git production deployment,learn git in hindi,git tutorial in hindi,git tutorials in hindi,learn git and github for beginners,
+learn git and github in 20 minutes,learn git and github without any code,branches in git, git branching,git branching tutorial,
+git branching explained,git branches,git branches explained,git branches tutorial,git merge tutorial,git checkout tutorial,git 
+checkout branch,branches in git,creating branches in git,branches github,create branch in git,git delete branch,git tutorial 
+branch,how to create branches github,how to create branches git,how to create merging branch git,create branch in github,git 
+branching and merging
+
+
+
+what is pull request in Git Hub
+
+coding,programming,pull request,pull request explainer,coding pull request,collaborative coding,group coding, pull request 
+github,pull request,pull request tutorial,pull request git,github pull request tutorial,create pull request,github pull 
+request,github pull request code review,github create pull request,github tutorial for beginners,github,git,git tutorial,
+pull request code review,git pull request,git pull request tutorial,git pull request beginners,pull request in github,git 
+push and pull tutorial,create pull request github,create a pull request on github, github,version control,tutorial, git pull 
+request,git pull request command line,git pull request tutorial,git pull,git pull command,what is git pull request,what is
+ git pull,git pull command example,git pull command example for windows,git commands with examples,git commands,git command 
+ line tutorial,git commands for beginners,git commands tutorial,learn git,git,git tutorial,git tutorial for beginners,devops 
+ tools,git training,simplilearn git,simplilearn devops,simplilearn, git pull request,git pull request command line,git
+  pull request tutorial,git pull,git pull command,what is git pull request,what is git pull,git pull command example,
+  git pull command example for windows,git commands with examples,git commands,git command line tutorial,git commands 
+  for beginners,git commands tutorial,learn git,git,git tutorial,git tutorial for beginners,devops tools,git 
+  training,simplilearn git,simplilearn devops,simplilearn, webdev,app development,lesson,tutorial,100secondsofcode,pull 
+  request,pr,github,open source,github tutorial,github fork,github clone, git,github,git,github,github tutorial,git tutorial,
+  repository,branch,pull request,version control,forks tutorial,fork,forking,version control tutorial,code backup,team 
+  programming,teamwork,teamwork coding,how to make a pull request,how to pull request,pull request tutorial,github 
+  fork tutoiral,github fork,gitub pull request,git (software),tutorial,github fork and pull request,repository tutorial,how 
+  to use github,how to use git,how to setup github, terminal,git,introduction,how to use git,git in the terminal,full git 
+  tutorial,git in the command line,git series,how to git,git commands,simple introduction to git,learn git,pull request,
+  how to make a pull request,code review,what is a pull request,what is a code review,pull request explained,github pull request,
+  bitbucket,master branch,pull request branch,git flow,code diffs,forking a repo,how to get my code into master,merge changes,
+   web development,programming,coding,code,learn to code,tutorial,software engineering,git,github,git fetch,git pull,git 
+   commit,git add,pull request,prs,open source,source control,upstream branch,git remote, git,github,git,github,github 
+   tutorial,git, tutorial,repository,commit,branch,pull request,version control,repository tutorial,commit tutorial,
+   version control tutorial,team programming,teamwork,teamwork coding,how to use github,how to use git,how-to (version control),
+   how to get started with github,beginner tutorial,how to setup github,first time github,repo,github version control,git branch 
+   tutorial,github branches,what is a git branch, github,github merge pull request,github pull request merge,github pr merge,pull 
+   request,pr,github branch merge,github merge,github for beginners,github pull request tutorial,github tutorial for beginners,
+   github repository tutorial,github projects,github pull request merge conflict,pull request github,pull request merge conflict,
+   pull request git,github merge two branches,github branch merge request
